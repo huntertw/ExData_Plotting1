@@ -47,21 +47,18 @@ the plot on a png file. Each code portion corresponds to a plot.
 
 ### Plot 1
 
-
-![plot of plot1](My-figures/plot1.png) 
-
+![plot of chunk plot1](My-figures/plot1.png) 
 
 ### Plot 2
 
-![plot of plot2](My-figures/plot2.png) 
-
+![plot of chunk plot2](My-figures/plot2.png) 
 
 ### Plot 3
 
-![plot of plot3](My-figures/plot3.png) 
+![plot of chunk plot3](My-figures/plot3.png) 
 
 
 ### Plot 4
 
-![plot of plot4](My-figures/plot4.png) 
+![plot of chunk plot4](My-figures/plot4.png) 
 
