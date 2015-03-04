@@ -47,18 +47,18 @@ the plot on a png file. Each code portion corresponds to a plot.
 
 ### Plot 1
 
-![plot of chunk plot1](https://github.com/huntertw/ExData_Plotting1/tree/master/My_figures/plot1.png) 
+![plot of chunk plot1](https://github.com/huntertw/ExData_Plotting1/blob/master/My_figures/plot1.png) 
 
 ### Plot 2
 
-![plot of chunk plot2](https://github.com/huntertw/ExData_Plotting1/tree/master/My_figures/plot2.png) 
+![plot of chunk plot2](https://github.com/huntertw/ExData_Plotting1/blob/master/My_figures/plot2.png) 
 
 ### Plot 3
 
-![plot of chunk plot3](https://github.com/huntertw/ExData_Plotting1/tree/master/My_figures/plot3.png) 
+![plot of chunk plot3](https://github.com/huntertw/ExData_Plotting1/blob/master/My_figures/plot3.png) 
 
 
 ### Plot 4
 
-![plot of chunk plot4](https://github.com/huntertw/ExData_Plotting1/tree/master/My_figures/plot4.png) 
+![plot of chunk plot4](https://github.com/huntertw/ExData_Plotting1/blob/master/My_figures/plot4.png) 
 
